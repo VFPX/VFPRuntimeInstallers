@@ -1,7 +1,7 @@
 # VFP Runtime Installers
 **Provides installers for the Visual FoxPro runtime files**
 
-Project Manager: Jürgen Wondzinski (better known as "wOOdy")
+Project Manager: [Jürgen Wondzinski](https://github.com/Woody-Soft) (better known as "wOOdy")
 
 The VFP runtime installers are no longer available for download from Microsoft's web site, so we've made them available on VFPX. Here you find the latest builds of the VFP runtime installers, as we compiled them several years ago, when ProLib was still alive.
 
@@ -13,7 +13,7 @@ Since those installers have been built with the WISE Installbuilder, the source 
 
 ## Instructions
 
-New: As of 20-October-2009, the Installers for VFP6, VFP7, VFP8 SP1 and VFP9 SP0, SP1, SP2 have been recreated to include the latest hotfixes and security updates!
+These installers include the all the latest hotfixes and security updates.
 
 ### Explanation of the filename
 
