@@ -13,7 +13,7 @@ Since those installers have been built with the WISE Installbuilder, the source 
 
 ## Instructions
 
-New: As of 20-October-2009, the Installers for VFP6, VFP7, VFP8 SP1 and VFP9 SP0, SP1, SP2 have been recreated to include the latest hotfixes and security updates!
+These installers include the all the latest hotfixes and security updates.
 
 ### Explanation of the filename
 
